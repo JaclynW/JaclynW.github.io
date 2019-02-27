@@ -28,3 +28,10 @@ Computer Science) Club, MiraCosta College Honors member and advocate
      * Honors student at MiraCosta College, pursuing a degree in Computer Science. Completed courses in Java and computer science information technology. GPA: 3.75. Programming courses involve working in groups to design and implement a project in the given time frame.
 * May 2017 Del Mar, Cathedral Catholic High School
     * Early involvement in high school robotics team. Completed Advanced STEM and AP Computer Science courses.
+
+### Contact 
+
+Email: jaclynewalsh@gmail.com
+Phone: 760.622.0312
+[LinkedIn](https://www.linkedin.com/in/jaclynewalsh/)
+
