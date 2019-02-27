@@ -4,29 +4,12 @@ Student pursuing Computer Science major, who enthusiastically enjoys web
 development, hackathons, and project management. Looking to further
 develop abilities in critical thinking and developer skills with an emphasis on
 collaboration, code efficiency, and creativity.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+WordPress, familiar with Adobe Photoshop, CAD design, Java, HTML/CSS,
+Active member and leader of Computer Science Club and WiCS (Women in
+Computer Science) Club, MiraCosta College Honors member and advocate
 
 ### Jekyll Themes
 
