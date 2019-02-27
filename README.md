@@ -25,4 +25,4 @@ Computer Science) Club, MiraCosta College Honors member and advocate
 * Expected Fall 2020 AA Degree Liberal Arts and Science, Oceanside, MiraCosta College
      * Honors student at MiraCosta College, pursuing a degree in Computer Science. Completed courses in Java and computer science information technology. GPA: 3.75. Programming courses involve working in groups to design and implement a project in the given time frame.
 * May 2017 Del Mar, Cathedral Catholic High School
-    *Early involvement in high school robotics team. Completed Advanced STEM and AP Computer Science courses.
+    * Early involvement in high school robotics team. Completed Advanced STEM and AP Computer Science courses.
