@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Objective
 
-You can use the [editor on GitHub](https://github.com/JaclynW/JaclynW.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Student pursuing Computer Science major, who enthusiastically enjoys web
+development, hackathons, and project management. Looking to further
+develop abilities in critical thinking and developer skills with an emphasis on
+collaboration, code efficiency, and creativity.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
