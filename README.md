@@ -31,7 +31,7 @@ Computer Science) Club, MiraCosta College Honors member and advocate
 
 ### Contact 
 
-Email: jaclynewalsh@gmail.com
-Phone: 760.622.0312
-[LinkedIn](https://www.linkedin.com/in/jaclynewalsh/)
+>Email: jaclynewalsh@gmail.com
+>Phone: 760.622.0312
+>[LinkedIn](https://www.linkedin.com/in/jaclynewalsh/)
 
