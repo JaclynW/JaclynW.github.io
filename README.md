@@ -1,4 +1,6 @@
-## Objective
+## Resume
+
+### Objective
 
 Student pursuing Computer Science major, who enthusiastically enjoys web
 development, hackathons, and project management. Looking to further
