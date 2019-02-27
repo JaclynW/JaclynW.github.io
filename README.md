@@ -11,10 +11,18 @@ WordPress, familiar with Adobe Photoshop, CAD design, Java, HTML/CSS,
 Active member and leader of Computer Science Club and WiCS (Women in
 Computer Science) Club, MiraCosta College Honors member and advocate
 
-### Jekyll Themes
+### Experience 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JaclynW/JaclynW.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 2017-Present Web Developer, Self-Employed
+    * Designing websites for MiraCosta College faculty, as well as small businesses.
+* September 2017-Present Marine Corps Ball Employee, LeeMedia
+    * Provide professional photos and general customer service to marines and their families.
+* December 2016-Present General Tutor, Carlsbad Library
+    * Tutored K-12 students in all subjects.
 
-### Support or Contact
+### Education
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Expected Fall 2020 AA Degree Liberal Arts and Science, Oceanside, MiraCosta College
+     * Honors student at MiraCosta College, pursuing a degree in Computer Science. Completed courses in Java and computer science information technology. GPA: 3.75. Programming courses involve working in groups to design and implement a project in the given time frame.
+* May 2017 Del Mar, Cathedral Catholic High School
+    *Early involvement in high school robotics team. Completed Advanced STEM and AP Computer Science courses.
